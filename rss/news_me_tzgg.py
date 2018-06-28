@@ -23,7 +23,7 @@ def get_article(link):
         article = bsObj.find('div', {'class':'wp_articlecontent'}).text
     except:
         article = ''
-    article = re.sub('\xa0', ' ', article)
+    article = re.sub('\xa0|\u2003', ' ', article)
     return article
 
 

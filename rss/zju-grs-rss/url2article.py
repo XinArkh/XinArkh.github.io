@@ -9,9 +9,15 @@ my_token = 'BnYZtNTSRK-2mZ6zTtpgxg'
 
 
 def match_pubdate(html):
-    searchObj = re.search(r'时间：[0-9]{4}-[0-9]{2}-[0-9]{2}', html)
+    '''
+    尝试在html文本中匹配【时间：yyyy-mm-dd】格式的字符片段，若匹配到则将其作为发布时间返回
+    p.s. api自带的时间提取功能错误率比较高，经常把正文中的时间提取为发表时间
+    '''
+    searchObj = re.search(r'时间：[0-9]{4}-[0-9]{2}-[0-9]{2}|&#x65F6;&#x95F4;&#xFF1A;[0-9]{4}-[0-9]{2}-[0-9]{2}', html)
+    # 【&#x65F6;&#x95F4;&#xFF1A;】是【时间：】的unicode字符，不知道为什么有时会以此形式出现
+
     if searchObj:
-        pubdate = datetime.datetime.strptime(searchObj.group(0)[3:], '%Y-%m-%d')
+        pubdate = datetime.datetime.strptime(searchObj.group(0)[-10:], '%Y-%m-%d')
         return pubdate
     else:
         return None

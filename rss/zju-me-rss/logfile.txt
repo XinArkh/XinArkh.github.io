@@ -1,0 +1,32 @@
+item out of date, skipped: 【通知公告】关于要求学院报告会、研讨会、讲座论坛等在院网活动申报系统进行申报备案的通知2019-02-26 00:00:00http://me.zju.edu.cn/meoffice/2018/1211/c6245a933823/page.htm
+item out of date, skipped: 【研究生教育】【更新拍摄地点】关于2021届毕业研究生图像信息采集补拍及散拍工作的通知2020-12-25 16:32:00http://grs.zju.edu.cn/redir.php?catalog_id=16313&object_id=219809
+item added: 【学生工作】【研究生资助】关于公示2021-2022学年新鸿基助学金推荐名单的通知2022-03-08 00:00:00http://me.zju.edu.cn/meoffice/2022/0308/c6469a2504131/page.htm
+item add failed: 【学生工作】Nonehttp://ygb-zju-edu-cn.webvpn.zju.edu.cn:8001/2022/0308/c31564a2504018/page.htm
+item added: 【学生工作】【资助】关于2022届春季毕业研究生办理国家助学贷款还款确认手续的通知2022-03-20 00:00:00http://ygb.zju.edu.cn/2022/0304/c31564a2503309/page.htm
+------ 2022-03-08 12:00:32.487901: 2 new rss items updated ------
+
+item out of date, skipped: 【通知公告】关于要求学院报告会、研讨会、讲座论坛等在院网活动申报系统进行申报备案的通知2019-02-26 00:00:00http://me.zju.edu.cn/meoffice/2018/1211/c6245a933823/page.htm
+item out of date, skipped: 【研究生教育】【更新拍摄地点】关于2021届毕业研究生图像信息采集补拍及散拍工作的通知2020-12-25 16:32:00http://grs.zju.edu.cn/redir.php?catalog_id=16313&object_id=219809
+item add failed: 【学生工作】Nonehttp://ygb-zju-edu-cn.webvpn.zju.edu.cn:8001/2022/0308/c31564a2504018/page.htm
+------ 2022-03-08 12:04:10.680785: 0 new rss items updated ------
+
+item out of date, skipped: 【通知公告】关于要求学院报告会、研讨会、讲座论坛等在院网活动申报系统进行申报备案的通知 2019-02-26 00:00:00 http://me.zju.edu.cn/meoffice/2018/1211/c6245a933823/page.htm
+item added: 【通知公告】机械工程学院关于2020级机械工程专业模块方向确认原则的通知 2022-03-09 00:00:00 http://me.zju.edu.cn/meoffice/2022/0309/c6427a2504417/page.htm
+item out of date, skipped: 【研究生教育】【更新拍摄地点】关于2021届毕业研究生图像信息采集补拍及散拍工作的通知 2020-12-25 16:32:00 http://grs.zju.edu.cn/redir.php?catalog_id=16313&object_id=219809
+item added: 【学生工作】【本科生评奖评优23号】关于公示2022届省级与校级优秀毕业生推荐名单的通知 2022-03-08 00:00:00 http://me.zju.edu.cn/meoffice/2022/0308/c6469a2504168/page.htm
+item add failed: 【学生工作】 None http://ygb-zju-edu-cn.webvpn.zju.edu.cn:8001/2022/0308/c31564a2504018/page.htm
+------ 2022-03-09 16:50:45.939485: 2 new rss items updated ------
+
+item out of date, skipped: 【通知公告】关于要求学院报告会、研讨会、讲座论坛等在院网活动申报系统进行申报备案的通知 2019-02-26 00:00:00 http://me.zju.edu.cn/meoffice/2018/1211/c6245a933823/page.htm
+item added: 【通知公告】机械学院关于机械工程前沿技术《基于云的信息物理制造系统》的选课通知 2022-03-09 00:00:00 http://me.zju.edu.cn/meoffice/2022/0309/c6427a2504923/page.htm
+item added: 【通知公告】机械工程学院关于本科全英文课程《机电系统建模与仿真》开课通知 2022-03-09 00:00:00 http://me.zju.edu.cn/meoffice/2022/0309/c6427a2504924/page.htm
+item out of date, skipped: 【研究生教育】【更新拍摄地点】关于2021届毕业研究生图像信息采集补拍及散拍工作的通知 2020-12-25 16:32:00 http://grs.zju.edu.cn/redir.php?catalog_id=16313&object_id=219809
+item add failed: 【学生工作】 None http://ygb-zju-edu-cn.webvpn.zju.edu.cn:8001/2022/0308/c31564a2504018/page.htm
+------ 2022-03-10 15:46:27.936392: 2 new rss items updated ------
+
+item out of date, skipped: 【通知公告】关于要求学院报告会、研讨会、讲座论坛等在院网活动申报系统进行申报备案的通知 2019-02-26 00:00:00 http://me.zju.edu.cn/meoffice/2018/1211/c6245a933823/page.htm
+item added: 【通知公告】机械工程学院关于2021级机械工程卓越人才计划班增补名单公示的通知 2022-03-11 00:00:00 http://me.zju.edu.cn/meoffice/2022/0311/c6427a2506049/page.htm
+item out of date, skipped: 【研究生教育】【更新拍摄地点】关于2021届毕业研究生图像信息采集补拍及散拍工作的通知 2020-12-25 16:32:00 http://grs.zju.edu.cn/redir.php?catalog_id=16313&object_id=219809
+item add failed: 【学生工作】 None http://ygb-zju-edu-cn.webvpn.zju.edu.cn:8001/2022/0308/c31564a2504018/page.htm
+------ 2022-03-11 22:57:02.619050: 1 new rss items updated ------
+

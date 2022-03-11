@@ -1,9 +1,20 @@
+import re
+import datetime
 import requests
 import rss_engine
 
 
 api_url = 'http://url2api.applinzi.com/article'
 my_token = 'BnYZtNTSRK-2mZ6zTtpgxg'
+
+
+def match_pubdate(html):
+    searchObj = re.search(r'时间：[0-9]{4}-[0-9]{2}-[0-9]{2}', html)
+    if searchObj:
+        pubdate = datetime.datetime.strptime(searchObj.group(0)[3:], '%Y-%m-%d')
+        return pubdate
+    else:
+        return None
 
 
 def get_article(url):
@@ -14,7 +25,13 @@ def get_article(url):
     if article.status_code != 200:
         raise ValueError('Request response %d, expecting 200!' % article.status_code)
 
-    return article.json()
+    article_info = article.json().copy()
+
+    pubdate = match_pubdate(html)
+    if pubdate:
+        article_info['date'] = str(pubdate)
+
+    return article_info
 
 
 if __name__ == '__main__':
